@@ -1,0 +1,30 @@
+.headerDeliveroo headerLogo {
+  background-color: white;
+  border-bottom: 1px rgb(228, 228, 228) solid;
+  position: relative;
+}
+.headerLogo img {
+  width: 154px;
+  height: 40px;
+  margin: 10px 0 10px 15px;
+}
+.cover {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 100%;
+  margin-left: 20px;
+}
+
+.cover h1 {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0;
+}
+
+.photoResto img {
+  height: auto;
+  margin: 20px 40px 20px 0;
+  height: 250px;
+  border-radius: 5px;
+}
